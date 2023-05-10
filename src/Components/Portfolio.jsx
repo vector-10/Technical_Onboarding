@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Building an AI chatbot with openAIs API 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Building and creating an AI chat bot by using openAIs API to help sstudents with simplet tasks.",
+    url: "https://dev.to/vectorware/building-an-ai-chatbot-using-open-ai-api-gpt-3-model-with-nodejs-and-reactjs-8ia",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Time Schedule API for students",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An express.js REST API built to help students manage their time effectively.",
+    url: "https://github.com/vector-10/Schedule-API",
   },
   {
-    title: "My Resume Site",
+    title: "Shell Scripting with ALX",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A github repository containing shell scripting commands for developer operations.",
+    url: "https://github.com/vector-10/alx-system_engineering-devops",
   },
   {
     title: "GitHub Codespaces and github.dev",
