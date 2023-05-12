@@ -12,6 +12,12 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  scroll-behavior: smooth;
+}
+
+/* add a smooth scroll */
+html {
+  scroll-behavior: smooth;
 }
 
 div#main {
@@ -122,4 +128,14 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+
+/* add a slide in animation */
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%) ;
+  }
+  to {
+    transform: translateX(0);
+  }
 }
